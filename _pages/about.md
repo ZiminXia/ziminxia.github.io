@@ -19,7 +19,7 @@ Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the Univ
 **Convolutional Cross-View Pose Estimation**\\
 **Zimin Xia**, Olaf Booij, Julian F. P. Kooij \\
 Under review \\
-[Paper](https://arxiv.org/abs/2303.05915) | [Code](https://github.com/tudelft-iv/CCVPE)
+[Paper](https://arxiv.org/abs/2303.05915v2) | [Code](https://github.com/tudelft-iv/CCVPE)
 
 **SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation**\\
 *Ted Lentsch, ***Zimin Xia**, Holger Caesar, Julian F.P. Kooij \\
