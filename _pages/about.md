@@ -16,28 +16,44 @@ Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the Univ
 
 
 # Selected publications
-**Convolutional Cross-View Pose Estimation**\\
-**Zimin Xia**, Olaf Booij, Julian F. P. Kooij \\
-Under review \\
-[Paper](https://arxiv.org/abs/2303.05915v2) | [Code](https://github.com/tudelft-iv/CCVPE)
 
-**SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation**\\
-*Ted Lentsch, ***Zimin Xia**, Holger Caesar, Julian F.P. Kooij \\
-*:Equal contribution \\
-CVPR 2023 \\
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html) | [Code](https://github.com/tudelft-iv/SliceMatch)
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>Convolutional Cross-View Pose Estimation</strong><br>
+    <strong>Zimin Xia</strong>, Olaf Booij, Julian F. P. Kooij<br>
+    Under review<br>
+    <a href="https://arxiv.org/abs/2303.05915v2">Paper</a> | <a href="https://github.com/tudelft-iv/CCVPE">Code</a><br>
+    <img src="./images/CCVPE.jpg" style="height:200px; display: block;" />
+</div>
 
-**Visual cross-view metric localization with dense uncertainty estimates**\\
-**Zimin Xia**, Olaf Booij, Marco Manfredi, Julian F.P. Kooij \\
-ECCV 2022 \\
-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_6) | [Code](https://github.com/tudelft-iv/CrossViewMetricLocalization)
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation</strong><br>
+    *Ted Lentsch, <strong>*Zimin Xia</strong>, Holger Caesar, Julian F.P. Kooij<br>
+    *:Equal contribution<br>
+    CVPR 2023<br>
+    <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html">Paper</a> | <a href="https://github.com/tudelft-iv/SliceMatch">Code</a><br>
+    <img src="./images/SliceMatch.jpg" style="height:200px; display: block;" />
+</div>
 
-**Cross-view matching for vehicle localization by learning geographically local representations**\\
-**Zimin Xia**, Olaf Booij, Marco Manfredi, Julian F.P. Kooij \\
-IEEE RA-L 2021 \\
-[Paper](https://ieeexplore.ieee.org/abstract/document/9449965) | [Code](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>Visual cross-view metric localization with dense uncertainty estimates</strong><br>
+    <strong>Zimin Xia</strong>, Olaf Booij, Marco Manfredi, Julian F.P. Kooij<br>
+    ECCV 2022<br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-19842-7_6">Paper</a> | <a href="https://github.com/tudelft-iv/CrossViewMetricLocalization">Code</a><br>
+    <img src="./images/ECCV22.jpg" style="height:150px; display: block;" />
+</div>
 
-**Geographically local representation learning with a spatial prior for visual localization**\\
-**Zimin Xia**, Olaf Booij, Marco Manfredi, Julian F.P. Kooij \\
-ECCV Workshop (Oral) 2020 \\
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-66096-3_38) | [Code](https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior)
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>Cross-view matching for vehicle localization by learning geographically local representations</strong><br>
+    <strong>Zimin Xia</strong>, Olaf Booij, Marco Manfredi, Julian F.P. Kooij<br>
+    IEEE RA-L 2021<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9449965">Paper</a> | <a href="https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior">Code</a><br>
+    <img src="./images/RAL21.PNG" style="height:150px; display: block;" />
+</div>
+
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>Geographically local representation learning with a spatial prior for visual localization</strong><br>
+    <strong>Zimin Xia</strong>, Olaf Booij, Marco Manfredi, Julian F.P. Kooij<br>
+    ECCV Workshop 2020 (Oral)<br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-66096-3_38">Paper</a> | <a href="https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior">Code</a><br>
+    <img src="./images/ECCVW20.png" style="height:150px; display: block;" />
+</div>
