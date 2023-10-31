@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am currently a final-year PhD candidate at the [Intelligent Vehicles group](https://intelligent-vehicles.org/) at TU Delft, under the supervision of [Dr. Julian F. P. Kooij](https://jkooij.github.io/) and [Prof. Dr. Dariu M. Gavrila](http://www.gavrila.net/).
-My primary research area is ground-to-aerial visual localization for autonomous vehicles. I have a keen interest in 3D computer vision, representation learning, and self-supervised learning. 
+My PhD project is funded by the Dutch Research Council [Efficient Deep Learning project](https://efficientdeeplearning.nl/).
+My primary research area is ground-to-aerial visual localization for autonomous vehicles. I have a keen interest in mapping and localization, 3D computer vision, representation learning, and self-supervised learning. 
 Throughout my PhD journey, I've had the privilege to collaborate with TomTom in Amsterdam.
 
 Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the University of Stuttgart, Germany, in 2019, and received my BSc in Geodesy and Geomatics Engineering from Wuhan University, China, in 2016.
