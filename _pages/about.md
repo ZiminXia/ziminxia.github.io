@@ -21,7 +21,7 @@ Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the Univ
 <div style="text-align: left; margin-bottom: 20px;">
     <strong>Convolutional Cross-View Pose Estimation</strong><br>
     <strong>Zimin Xia</strong>, Olaf Booij, Julian F. P. Kooij<br>
-    Under review<br>
+    Accepted by T-PAMI<br>
     <a href="https://arxiv.org/abs/2303.05915v2">Paper</a> | <a href="https://github.com/tudelft-iv/CCVPE">Code</a><br>
     <img src="./images/CCVPE.jpg" style="height:200px; display: block;" />
 </div>
