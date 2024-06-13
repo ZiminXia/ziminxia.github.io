@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD candidate at the [Intelligent Vehicles group](https://intelligent-vehicles.org/) at TU Delft, under the supervision of [Dr. Julian F. P. Kooij](https://jkooij.github.io/) and [Prof. Dr. Dariu M. Gavrila](http://www.gavrila.net/).
-My PhD project is funded by the Dutch Research Council [Efficient Deep Learning project](https://efficientdeeplearning.nl/).
-My primary research area is ground-to-aerial visual localization for autonomous vehicles. I have a keen interest in mapping and localization, 3D computer vision, representation learning, and self-supervised learning. 
-Throughout my PhD journey, I've had the privilege to collaborate with TomTom in Amsterdam.
+I am currently a PostDoc researcher at the [Visual Intelligence for Transportation Lab](https://www.epfl.ch/labs/vita/) at EPFL, under the guidance of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi).
 
+I completed my PhD at the [Intelligent Vehicles group](https://intelligent-vehicles.org/) at TU Delft, supervised by [Dr. Julian F. P. Kooij](https://jkooij.github.io/) and [Prof. Dr. Dariu M. Gavrila](http://www.gavrila.net/).
+During my PhD, I also collaborated with TomTom in Amsterdam.
 Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the University of Stuttgart, Germany, in 2019, and received my BSc in Geodesy and Geomatics Engineering from Wuhan University, China, in 2016.
+
+My research interests lie at the intersection of computer vision and mobile robotics, with a primary focus on visual localization for autonomous vehicles, particularly in ground-to-aerial cross-view localization. Additionally, I am deeply interested in mapping, 3D computer vision, representation learning, and self-supervised learning.
 
 
 # Selected publications
@@ -21,8 +22,8 @@ Prior to my PhD pursuit, I completed my MSc in Geomatics Engineering at the Univ
 <div style="text-align: left; margin-bottom: 20px;">
     <strong>Convolutional Cross-View Pose Estimation</strong><br>
     <strong>Zimin Xia</strong>, Olaf Booij, Julian F. P. Kooij<br>
-    Accepted by T-PAMI<br>
-    <a href="https://arxiv.org/abs/2303.05915v2">Paper</a> | <a href="https://github.com/tudelft-iv/CCVPE">Code</a><br>
+    T-PAMI 2023<br>
+    <a href="https://ieeexplore.ieee.org/document/10373898">Paper</a> | <a href="https://github.com/tudelft-iv/CCVPE">Code</a><br>
     <img src="./images/CCVPE.jpg" style="height:200px; display: block;" />
 </div>
 
