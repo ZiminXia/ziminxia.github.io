@@ -41,7 +41,7 @@ My research interests lie at the intersection of computer vision and mobile robo
     *:Equal contribution<br>
     CVPR 2023<br>
     <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html">Paper</a> | <a href="https://github.com/tudelft-iv/SliceMatch">Code</a> | <a href="https://www.youtube.com/watch?v=gql1dkQQNrA">Video</a><br>
-    <img src="./images/SliceMatch.jpg" style="height:200px; display: block;" />
+    <img src="./images/SliceMatch.jpg" style="height:300px; display: block;" />
 </div>
 
 <div style="text-align: left; margin-bottom: 20px;">
