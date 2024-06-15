@@ -24,7 +24,7 @@ My research interests lie at the intersection of computer vision and mobile robo
     <strong>Zimin Xia</strong>, Yujiao Shi, Hongdong Li, Julian F. P. Kooij<br>
     Arxiv 2024<br>
     <a href="http://arxiv.org/abs/2406.00474">Paper</a> 
-    <img src="./images/Adapting_CVM.PNG" style="height:180px; display: block;" />
+    <img src="./images/Adapting_CVM.png" style="height:180px; display: block;" />
 </div>
 
 <div style="text-align: left; margin-bottom: 20px;">
