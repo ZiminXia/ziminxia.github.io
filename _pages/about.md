@@ -22,7 +22,7 @@ My research interests lie at the intersection of computer vision and mobile robo
 <div style="text-align: left; margin-bottom: 20px;">
     <strong>Adapting Fine-Grained Cross-View Localization to Areas without Fine Ground Truth</strong><br>
     <strong>Zimin Xia</strong>, Yujiao Shi, Hongdong Li, Julian F. P. Kooij<br>
-    Arxiv 2024<br>
+    ECCV 2024 (accepted)<br>
     <a href="http://arxiv.org/abs/2406.00474">Paper</a> 
     <img src="./images/Adapting_CVM.png" style="height:180px; display: block;" />
 </div>
