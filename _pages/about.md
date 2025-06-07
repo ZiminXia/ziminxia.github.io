@@ -18,12 +18,19 @@ My research interests lie at the intersection of computer vision and mobile robo
 
 
 # Selected publications
+<div style="text-align: left; margin-bottom: 20px;">
+    <strong>FG$^2$: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching</strong><br>
+    <strong>Zimin Xia</strong>, Alexandre Alahi<br>
+    CVPR 2025 <br>
+    <a href="https://arxiv.org/abs/2503.18725">Paper</a> | <a href="https://github.com/vita-epfl/FG2">Code</a> | <a href="https://www.youtube.com/watch?v=GStVKsoLDl4">Video</a><br>
+    <img src="./images/FG2.png" style="height:180px; display: block;" />
+</div>
 
 <div style="text-align: left; margin-bottom: 20px;">
     <strong>Adapting Fine-Grained Cross-View Localization to Areas without Fine Ground Truth</strong><br>
     <strong>Zimin Xia</strong>, Yujiao Shi, Hongdong Li, Julian F. P. Kooij<br>
-    ECCV 2024 (accepted)<br>
-    <a href="http://arxiv.org/abs/2406.00474">Paper</a> 
+    ECCV 2024 <br>
+    <a href="http://arxiv.org/abs/2406.00474">Paper</a> | <a href="https://github.com/tudelft-iv/Adapting_CVL">Code</a> | <a href="https://www.youtube.com/watch?v=U9njuEIdVL8">Video</a><br>
     <img src="./images/Adapting_CVM.png" style="height:180px; display: block;" />
 </div>
 
