@@ -86,6 +86,13 @@ body.page-home #main {
   margin-top: 2.6em;
 }
 
+#bio,
+#vision,
+#publication,
+#invited-talk {
+  scroll-margin-top: 5.5rem;
+}
+
 @include breakpoint($large) {
   body.page-home #main {
     display: grid;
@@ -240,9 +247,9 @@ body.page-home .author__urls a {
   margin: 0;
   color: rgba(255, 255, 255, 0.68);
   font-family: "Manrope", sans-serif;
-  font-size: 0.74rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
 }
 
@@ -453,6 +460,7 @@ body.page-home .author__urls a {
 .home-hero h1 {
   margin: 0.75rem 0 2.55rem;
   max-width: none;
+  color: var(--home-accent-deep);
   font-size: clamp(2rem, 4.25vw, 3.68rem);
   font-weight: 600;
   letter-spacing: -0.045em;
@@ -471,7 +479,7 @@ body.page-home .author__urls a {
 
 .home-hero__accent {
   display: inline-block;
-  color: var(--home-accent-deep);
+  color: var(--home-ink);
   font-size: 1.08em;
   line-height: 0.96;
   white-space: nowrap;
@@ -524,6 +532,55 @@ body.page-home .author__urls a {
 
 .home-hero__summary--intro {
   margin-top: 0;
+}
+
+.home-hero__keyword-label {
+  margin: 1.3rem 0 0;
+  color: var(--home-ink-soft);
+  font-family: "Manrope", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.home-hero__keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.15rem;
+  margin-top: 0.8rem;
+}
+
+.home-keyword-card {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  max-width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.home-keyword-card::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 0.42rem;
+  height: 0.42rem;
+  border-radius: 999px;
+  background: var(--home-accent-deep);
+  opacity: 0.72;
+}
+
+.home-keyword-card__title {
+  margin: 0;
+  color: var(--home-ink);
+  font-family: "Manrope", sans-serif;
+  font-size: 0.96rem;
+  font-weight: 700;
+  letter-spacing: 0.075em;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .home-hero__notice {
@@ -1001,11 +1058,14 @@ body.page-home .author__urls a {
   order: 1;
   color: var(--home-ink-soft);
   font-size: 0.95rem;
+  font-weight: 500;
   line-height: 1.55;
 }
 
 .paper-card__author-self {
   color: var(--home-ink);
+  font-weight: 800;
+  letter-spacing: -0.01em;
 }
 
 .paper-card__media .paper-card__note {
@@ -1025,13 +1085,15 @@ body.page-home .author__urls a {
 .paper-chip {
   display: inline-flex;
   align-items: center;
-  padding: 0.34rem 0.7rem;
+  padding: 0.38rem 0.8rem;
   border-radius: 999px;
-  background: rgba(24, 48, 66, 0.08);
-  color: var(--home-ink-soft);
-  font-size: 0.74rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  border: 1px solid rgba(23, 20, 16, 0.08);
+  background: rgba(23, 20, 16, 0.9);
+  color: rgba(255, 250, 244, 0.96);
+  box-shadow: 0 10px 20px -18px rgba(23, 20, 16, 0.55);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 

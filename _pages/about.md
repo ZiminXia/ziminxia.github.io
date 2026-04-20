@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <div class="home-shell">
-  <section class="home-hero">
+  <section id="bio" class="home-hero">
     <div class="home-hero__grid">
       <div>
         <!-- <p class="home-kicker">Computer vision, mobile robotics, and spatial AI</p> -->
@@ -20,16 +20,37 @@ redirect_from:
         <p class="home-hero__notice">I am actively recruiting motivated PhD and MSc students, as well as research assistants, to work on spatial intelligence, computer vision, and robotics. If this aligns with your interests, feel free to email me at <a href="mailto:zimin.xia@epfl.ch">zimin.xia@epfl.ch</a>.</p>
         <div class="home-hero__divider"></div>
         <p class="home-hero__summary home-hero__summary--intro">
-          I am Zimin Xia, a postdoctoral researcher in the <a href="https://www.epfl.ch/labs/vita/">Visual Intelligence for Transportation Lab</a> at EPFL, advised by <a href="https://people.epfl.ch/alexandre.alahi">Prof. Alexandre Alahi</a>. My research lies at the intersection of computer vision and mobile robotics, with a focus on ground-to-aerial cross-view localization, mapping, and representation learning for autonomous systems. I am particularly interested in methods that remain effective beyond tightly curated benchmarks.
+          I am Zimin Xia, a postdoctoral researcher with the <a href="https://www.epfl.ch/labs/vita/">Visual Intelligence for Transportation Lab</a> at EPFL, advised by <a href="https://people.epfl.ch/alexandre.alahi">Prof. Alexandre Alahi</a>. My research lies at the intersection of computer vision and mobile robotics, with a focus on ground-to-aerial cross-view localization, mapping, and representation learning for autonomous systems. More broadly, I am interested in methods that remain reliable beyond tightly curated benchmarks.
         </p>
         <p class="home-hero__summary">
-          Before joining EPFL, I completed my PhD at the <a href="https://intelligent-vehicles.org/">Intelligent Vehicles Group</a> at TU Delft under the supervision of <a href="https://jkooij.github.io/">Prof. Julian F. P. Kooij</a> and <a href="http://www.gavrila.net/">Prof. Dariu M. Gavrila</a>, while collaborating with the Autonomous Driving Department at TomTom in Amsterdam. Earlier, I studied Geomatics Engineering at the University of Stuttgart and Wuhan University, and spent time at Carl Zeiss.
+          Before joining EPFL, I earned my PhD with the <a href="https://intelligent-vehicles.org/">Intelligent Vehicles Group</a> at TU Delft under the supervision of <a href="https://jkooij.github.io/">Prof. Julian F. P. Kooij</a> and <a href="http://www.gavrila.net/">Prof. Dariu M. Gavrila</a>, while collaborating with the Autonomous Driving Department at TomTom in Amsterdam. Earlier, I studied Geomatics Engineering at the University of Stuttgart and Wuhan University and also spent time at Carl Zeiss.
         </p>
+        <p class="home-hero__keyword-label">Research interests</p>
+        <div class="home-hero__keywords" aria-label="Research interests">
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Cross-View Image Matching</span>
+          </span>
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Visual Localization</span>
+          </span>
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Scene Representation</span>
+          </span>
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Autonomous Driving</span>
+          </span>
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Low-Altitude Economy</span>
+          </span>
+          <span class="home-keyword-card">
+            <span class="home-keyword-card__title">Spatial Intelligence</span>
+          </span>
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="home-manifesto">
+  <section id="vision" class="home-manifesto">
     <details class="home-manifesto__toggle">
       <summary class="home-manifesto__summary">
         <span class="home-manifesto__eyebrow">Vision</span>
@@ -59,7 +80,7 @@ redirect_from:
     </details>
   </section>
 
-  <section class="home-section home-section--research">
+  <section id="publication" class="home-section home-section--research">
     <p class="home-section__eyebrow">Selected publication</p>
 
     <div class="home-section__bridge">
@@ -231,7 +252,7 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-talks">
+  <section id="invited-talk" class="home-talks">
     <p class="home-section__eyebrow">Invited talk</p>
     <article class="talk-card">
       <div class="talk-card__meta">

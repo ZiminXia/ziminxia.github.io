@@ -1,7 +1,16 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Bio"
+    url: /#bio
+
+  - title: "Vision"
+    url: /#vision
+
+  - title: "Publication"
+    url: /#publication
+
+  - title: "Invited Talk"
+    url: /#invited-talk
 
   # - title: "Talks"
   #   url: /talks/    
