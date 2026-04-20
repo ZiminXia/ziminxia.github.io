@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zimin Xia"
 title_separator          : "-"
 name                     : &name "Zimin Xia"
-description              : &description "personal description"
+description              : &description "Postdoctoral researcher at EPFL working on visual localization, computer vision, and mobile robotics."
 url                      : https://ziminxia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZiminXia/ziminxia.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Zimin Xia"
   avatar           : "photo.jpg"
-  bio              : "PostDoc researcher at VITA lab, EPFL"
+  bio              : "Postdoc at EPFL<br>Incoming AP at SUSTech"
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : 
