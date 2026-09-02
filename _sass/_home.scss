@@ -141,9 +141,13 @@ body.page-home .sidebar > div[itemscope] {
     max-height: calc(100vh - 6.7rem);
     overflow-y: auto;
     overscroll-behavior: contain;
-    scrollbar-color: rgba(109, 90, 66, 0.3) transparent;
-    scrollbar-width: thin;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
+}
+
+body.page-home .sidebar > div[itemscope]::-webkit-scrollbar {
+  display: none;
 }
 
 body.page-home .author__avatar img {
