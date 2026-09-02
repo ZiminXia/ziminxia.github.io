@@ -1,7 +1,7 @@
 ---
 permalink: /
 title:
-excerpt: "Postdoc at EPFL."
+excerpt: "Assistant Professor at SUSTech."
 author_profile: true
 homepage: true
 redirect_from: 
@@ -15,15 +15,13 @@ redirect_from:
       <div>
         <!-- <p class="home-kicker">Computer vision, mobile robotics, and spatial AI</p> -->
         <h1><span class="home-hero__line">Connecting street-level</span><span class="home-hero__line">perception with aerial views for</span><span class="home-hero__line"><span class="home-hero__accent">Spatial Intelligence</span></span></h1>
-        <p class="home-hero__subhead">Incoming Tenure-track Assistant Professor (Starting August&nbsp;2026)<br>
-        at Southern University of Science and Technology (<a href="https://www.sustech.edu.cn/en/">SUSTech</a>)</p>
-        <p class="home-hero__notice">I am actively recruiting motivated PhD and MSc students, as well as research assistants, to work on spatial intelligence, computer vision, and robotics. If this aligns with your interests, feel free to email me at <a href="mailto:zimin.xia@epfl.ch">zimin.xia@epfl.ch</a>.</p>
+        <p class="home-hero__notice">I am actively recruiting motivated PhD and MSc students, as well as research assistants, to work on spatial intelligence, computer vision, and robotics. If this aligns with your interests, feel free to email me at <a href="mailto:xiazm3@sustech.edu.cn">xiazm3@sustech.edu.cn</a>.</p>
         <div class="home-hero__divider"></div>
         <p class="home-hero__summary home-hero__summary--intro">
-          I am Zimin Xia, a postdoctoral researcher with the <a href="https://www.epfl.ch/labs/vita/">Visual Intelligence for Transportation Lab</a> at EPFL, advised by <a href="https://people.epfl.ch/alexandre.alahi">Prof. Alexandre Alahi</a>. My research lies at the intersection of computer vision and mobile robotics, with a focus on ground-to-aerial cross-view localization, mapping, and representation learning for autonomous systems. More broadly, I am interested in methods that remain reliable beyond tightly curated benchmarks.
+          I am Zimin Xia, an Assistant Professor at the <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>. My research lies at the intersection of computer vision and mobile robotics, with a focus on ground-to-aerial cross-view localization, scene representation, and spatial intelligence for autonomous systems. More broadly, I am interested in methods that remain reliable beyond tightly curated benchmarks.
         </p>
         <p class="home-hero__summary">
-          Before joining EPFL, I earned my PhD with the <a href="https://intelligent-vehicles.org/">Intelligent Vehicles Group</a> at TU Delft under the supervision of <a href="https://jkooij.github.io/">Prof. Julian F. P. Kooij</a> and <a href="http://www.gavrila.net/">Prof. Dariu M. Gavrila</a>, while collaborating with the Autonomous Driving Department at TomTom in Amsterdam. Earlier, I studied Geomatics Engineering at the University of Stuttgart and Wuhan University and also spent time at Carl Zeiss.
+          Before joining SUSTech, I was a postdoctoral researcher with the <a href="https://www.epfl.ch/labs/vita/">Visual Intelligence for Transportation Lab</a> at EPFL, advised by <a href="https://people.epfl.ch/alexandre.alahi">Prof. Alexandre Alahi</a>. I earned my PhD with the <a href="https://intelligent-vehicles.org/">Intelligent Vehicles Group</a> at TU Delft under the supervision of <a href="https://jkooij.github.io/">Prof. Julian F. P. Kooij</a> and <a href="http://www.gavrila.net/">Prof. Dariu M. Gavrila</a>, while collaborating with the Autonomous Driving Department at TomTom in Amsterdam. Earlier, I studied Geomatics Engineering at the University of Stuttgart and Wuhan University and also spent time at Carl Zeiss.
         </p>
         <p class="home-hero__keyword-label">Research interests</p>
         <div class="home-hero__keywords" aria-label="Research interests">
@@ -85,13 +83,31 @@ redirect_from:
 
     <div class="home-section__bridge">
       <p>
-        Jean Piaget, the Swiss psychologist who pioneered the study of children's cognitive development, observed that a key aspect of emerging spatial intelligence is the ability to coordinate spatial relationships and find one's way between different locales <a class="home-section__cite" href="#ref-piaget">(Piaget, 1957)</a>.
-      </p>
-      <p>
-        Hence, <strong>self-localization</strong>, the task of identifying one's ego-location within an external reference frame, constitutes a fundamental problem in the development of spatial intelligence.
+        Gardner characterizes spatial intelligence through the capacities to perceive the visual world accurately, transform initial perceptions, re-create visual experience, and orient oneself across different places <a class="home-section__cite" href="#ref-gardner">(Gardner, 2011)</a>. My research brings these capacities into machines by enabling them to understand their own position and motion, model and generate the surrounding environment, reason about how it evolves, and translate perception into action using predictive world models for navigation and planning across ground-level and aerial domains.
       </p>
     </div>
     <div class="paper-grid">
+      <article class="paper-card">
+        <div class="paper-card__media">
+          <div class="paper-card__meta">
+            <span class="paper-chip">ECCV 2026 Spotlight (Oral)</span>
+          </div>
+          <img src="{{ '/images/OpenCVL.webp' | relative_url }}" alt="OpenCVL coverage across four European countries with diverse ground-level and aerial imagery">
+          <p class="paper-card__authors"><span class="paper-card__author-self">Zimin Xia*&#8224;</span>, Mubariz Zaffar*, Junsheng Fu, Alexandre Alahi, Julian F. P. Kooij</p>
+          <p class="paper-card__note">* Equal contribution; &#8224; Corresponding author</p>
+          <div class="paper-card__links">
+            <a href="https://open-cvl.github.io/access.html">Dataset</a>
+            <a href="https://arxiv.org/abs/2608.25274">Paper</a>
+            <a href="https://open-cvl.github.io/">Project</a>
+            <a href="https://www.youtube.com/watch?v=qPjUR8dGrcE">Video</a>
+          </div>
+        </div>
+        <div class="paper-card__body">
+          <h3>OpenCVL: An Open, Diverse, and Large-Scale Dataset for Fine-Grained Cross-View Localization</h3>
+          <p class="paper-card__summary">OpenCVL provides 617,388 ground-aerial image pairs across 41 cities in four European countries, combining calibrated and in-the-wild ground imagery with open aerial data to support scalable, reproducible fine-grained cross-view localization.</p>
+        </div>
+      </article>
+
       <article class="paper-card">
         <div class="paper-card__media">
           <div class="paper-card__meta">
@@ -230,7 +246,7 @@ redirect_from:
       <article class="paper-card">
         <div class="paper-card__media">
           <div class="paper-card__meta">
-            <span class="paper-chip">ECCV Workshop 2020</span>
+            <span class="paper-chip">ECCV Workshop 2020 (Oral)</span>
           </div>
           <img src="{{ '/images/ECCVW20.png' | relative_url }}" alt="Overview figure from geographically local representation learning">
           <p class="paper-card__authors"><span class="paper-card__author-self">Zimin Xia</span>, Olaf Booij, Marco Manfredi, Julian F. P. Kooij</p>
@@ -272,9 +288,6 @@ redirect_from:
     <ol class="home-reference-list">
       <li id="ref-gardner">
         Howard Gardner. <em><a href="https://books.google.com/books/about/Frames_of_Mind.html?id=wxj6npSaykgC">Frames of Mind: The Theory of Multiple Intelligences</a></em>. Basic Books, 2011.
-      </li>
-      <li id="ref-piaget">
-        Jean Piaget, Baerbel Inhelder, F. J. Langdon, and J. L. Lunzer. "The Child's Conception of Space." <em>British Journal of Educational Studies</em> 5.2 (1957), pp. 187-189. <a href="https://doi.org/10.2307/3118882">DOI: 10.2307/3118882</a>.
       </li>
     </ol>
   </section>

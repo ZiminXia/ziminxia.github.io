@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zimin Xia"
 title_separator          : "-"
 name                     : &name "Zimin Xia"
-description              : &description "Postdoctoral researcher at EPFL working on visual localization, computer vision, and mobile robotics."
+description              : &description "Assistant Professor at SUSTech working on spatial intelligence, visual localization, computer vision, and mobile robotics."
 url                      : https://ziminxia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZiminXia/ziminxia.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Zimin Xia"
   avatar           : "photo.jpg"
-  bio              : "Postdoc at EPFL<br>Incoming AP at SUSTech"
-  location         : "Lausanne, Switzerland"
+  bio              : '<strong><em>Assistant Professor</em></strong> at <a href="https://www.sustech.edu.cn/en/">SUSTech</a>'
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Wl7NqjoAAAAJ&hl=en"
-  email            : "zimin.xia@epfl.ch"
+  email            : "xiazm3@sustech.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zimin-Xia"
   uri              :
   bitbucket        :
