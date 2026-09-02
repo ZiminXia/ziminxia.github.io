@@ -111,8 +111,8 @@ body.page-home #main {
 
   body.page-home .sidebar {
     margin-bottom: 0;
-    position: static;
-    top: auto;
+    position: sticky;
+    top: 5.7rem;
   }
 
   body.page-home .page {
@@ -136,6 +136,14 @@ body.page-home .sidebar > div[itemscope] {
   border-radius: 26px;
   padding: 1.35rem;
   box-shadow: var(--home-shadow-soft);
+
+  @include breakpoint($large) {
+    max-height: calc(100vh - 6.7rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    scrollbar-color: rgba(109, 90, 66, 0.3) transparent;
+    scrollbar-width: thin;
+  }
 }
 
 body.page-home .author__avatar img {
